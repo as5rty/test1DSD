@@ -1,13 +1,13 @@
-# Decision on Authentication
+# Updated ADR Title
 
 ## Context
-We need a secure authentication system.
+Updated context of the ADR
 
 ## Decision
-Use OAuth2 with JWT
+Updated decision text
 
 ## Consequences
-All services must support JWT tokens
+Updated consequences text
 
 ## Status
 APPROVED
