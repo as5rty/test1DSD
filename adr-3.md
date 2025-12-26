@@ -1,0 +1,13 @@
+# Generating title...
+
+## Context
+Generating context...
+
+## Decision
+Generating decision...
+
+## Consequences
+Generating consequences...
+
+## Status
+APPROVED
